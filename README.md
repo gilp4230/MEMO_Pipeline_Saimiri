@@ -19,3 +19,5 @@ The main guide, [`Saimiri_vcf_filtering_workflow.md`](./Saimiri_vcf_filtering_wo
 - **Final QC and visualization**
 
 ---
+
+## 🧬 Saimiri Population Structure Analysis
